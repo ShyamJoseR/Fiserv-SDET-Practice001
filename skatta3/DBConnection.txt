@@ -1,0 +1,5 @@
+This Program Connects our application to MySQL Database
+Username=root
+Password=admin
+DBURL=jdbc://mysql
+Port=3306
