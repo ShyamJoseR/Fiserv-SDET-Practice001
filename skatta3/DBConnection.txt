@@ -3,3 +3,5 @@ Username=root
 Password=admin
 DBURL=jdbc://mysql
 Port=3306
+
+Using JDBC to connect to Database
